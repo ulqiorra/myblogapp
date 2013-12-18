@@ -33,8 +33,6 @@ namespace MyBlog
 
       ModelBinders.Binders.Add(typeof(Post), new PostModelBinder(Kernel));
 
-      HibernatingRhinos.Profiler.Appender.NHibernate.NHibernateProfiler.Initialize();
-
       base.OnApplicationStarted();
     }
 
