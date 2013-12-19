@@ -45,3 +45,4 @@ D:\Универ\ПФИТ\git\MyBlog\MyBlog\bin\NHibernate.xml
 D:\Универ\ПФИТ\git\MyBlog\MyBlog\bin\Iesi.Collections.xml
 D:\Универ\ПФИТ\git\MyBlog\MyBlog\obj\Debug\JustBlog.dll
 D:\Универ\ПФИТ\git\MyBlog\MyBlog\obj\Debug\JustBlog.pdb
+D:\Универ\ПФИТ\git\MyBlog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
